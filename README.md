@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://0Clever0.github.io/rsschool-cv/cv
+# https://0Clever0.github.io/rsschool-cv/
